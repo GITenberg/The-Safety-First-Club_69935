@@ -1,0 +1,36 @@
+_repo: The-Safety-First-Club_69935
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Anderson, Frederic A.
+    alias: Anderson, F. A.
+    birthdate: 1894
+    deathdate: 1950
+    gutenberg_agent_id: '52958'
+    url: http://www.gutenberg.org/2009/agents/52958
+creator:
+  author:
+    agent_name: Nichols, William Theophilus
+    alias: Nichols, W. T.
+    birthdate: 1863
+    gutenberg_agent_id: '52957'
+    url: http://www.gutenberg.org/2009/agents/52957
+description: ''
+gutenberg_issued: '2023-02-02'
+identifiers:
+  gutenberg: '69935'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:728060
+pgterms:marc905: 20220927051631nichols
+pgterms:marc906: '1916'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: '  $aUnited States :$bPenn Publishing Company, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Safety First Club
+url: http://www.gutenberg.org/ebooks/69935
