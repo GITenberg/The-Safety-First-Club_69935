@@ -8,6 +8,9 @@ contributor:
     deathdate: 1950
     gutenberg_agent_id: '52958'
     url: http://www.gutenberg.org/2009/agents/52958
+covers:
+- cover_type: archival
+  image_path: 69935-h/images/cover.jpg
 creator:
   author:
     agent_name: Nichols, William Theophilus
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '52957'
     url: http://www.gutenberg.org/2009/agents/52957
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69935#The-Safety-First-Club
 gutenberg_issued: '2023-02-02'
 identifiers:
   gutenberg: '69935'
